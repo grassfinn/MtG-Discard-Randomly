@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+}
+
+input {
+    width: 80px;
+    font-size: 2em;
+    text-align: center;
+}
+
+div, input,section {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 1.5em;
+    padding: .4em .8em;
+}
+
+#reset {
+    background-color: lightcoral;
+}
+
+#submit {
+    background-color: lightgreen;
+}
